@@ -1,0 +1,17 @@
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: Block Software Development Spam in Google
+! Last modified:
+! Expires: 3 days (update frequency)
+! Homepage: https://github.com/dmi3/blockdevspam
+!
+google.com##a[href^="https://itectec.com/"]
+google.com##a[href^="https://www.py4u.net/"]
+google.com##a[href^="https://coderoad.ru/"]
+google.com##a[href^="https://pretagteam.com/"]
+google.com##a[href^="https://www.codegrepper.com/"]
+google.com##a[href^="https://coderedirect.com/"]
+google.com##a[href^="https://newbedev.com/"]
+google.com##a[href^="https://www.titanwolf.org/"]
+google.com##a[href^="https://stackify.dev/"]
+google.com##a[href^="https://xspdf.com"]
